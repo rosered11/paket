@@ -30,4 +30,6 @@ dotnet paket install
 
 ## Update Paket
 
+```
 dotnet paket update
+```
